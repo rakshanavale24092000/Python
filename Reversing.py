@@ -1,4 +1,4 @@
-#In python slicing  is used to grab a section of sting
+#In python slicing  is used to grab a section of string
 myString = "Hello World"
 slice=myString[1:6:1]
 #[Start_point : end_point : step_size]
