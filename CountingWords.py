@@ -7,4 +7,4 @@ words = myString.split()
 
 length = len(words)
 print(f"Number of words are:{length}")
-#output: Number of words are:4
+#output-> Number of words are:4
