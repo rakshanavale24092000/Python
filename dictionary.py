@@ -1,3 +1,5 @@
+#dictioneries are unordered and mutable
+
 d = {'k1':100, 'k2':50 , 'k3':200, 'k4':80, 'k5':600}
 #d.values() gives the values, d.keys() gives keys, d.items() gives both key value pairs
 
