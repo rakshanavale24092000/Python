@@ -17,21 +17,21 @@ nums = [1, 0, 0, 6, 7]
 print(spy_game(nums))
 #output-> True
 
-# iteration 1:
+# iteration 1
 #     i = 1 , False
 
-# iteration 2:
+# iteration 2
 #     i = 0 , True
 #     0 from code is poped therefore code=[0, 7, 'x']
 
-# iteration 3:
+# iteration 3
 #     i = 0 , True
 #     0 from code is poped therefore code=[7, 'x']
 
-# iteration 4:
+# iteration 4
 #     i = 6 , False
 
-# iteration 3:
+# iteration 5
 #     i = 7 , True
 #     0 from code is poped therefore code=['x']
 #for loop breaks and length is 1 and hence True is returned
