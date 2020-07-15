@@ -9,13 +9,13 @@ print(f'the values are {values}')
 
 list_values = list(values)
 
-#ascending order
+#for ascending order
 print(f'the values sorted in ascending order are {sorted(list_values)}')
 #output-> the values sorted in ascending order are [50, 80, 100, 200, 600]
 
 #if 'reverse' is not assigned to True then by default the list is sorted in ascending order
 
-#descending order
+#for descending order
 print(f'the values sorted in descending order are {sorted(list_values,reverse=True)}')
 #output->the values sorted in descending order are [600, 200, 100, 80, 50]
 
