@@ -1,8 +1,7 @@
 #Tuples are similar to lists but are immutable 
 
 tuple = (4,10,20,15,80)
- paranthesi
-#unpacking of tuples in variables
+#unpacking of tuples
 a,b,c,d,e = tuple
 sum = a+b+c+d+e
 print(sum)
