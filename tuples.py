@@ -7,7 +7,7 @@ sum = a+b+c+d+e
 print(sum)
 #output->129
 
-#tuples are immutable so to add elements at the end concatination is used.
+#tuples are immutable thats the reason to add elements at the end concatination is used.
 #tuples are constructed by comma operators with or without being enclosed by parantheses
 tuple = tuple + (sum,)
 print(tuple)
