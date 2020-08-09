@@ -11,7 +11,8 @@ while x <= value:
     print(x)
     x,y = y,x+y
     
-#output
+#output:
+
 # 0
 # 1
 # 1
