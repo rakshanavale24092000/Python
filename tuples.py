@@ -16,4 +16,4 @@ print(tuple)
 #tuple containing only sum
 tuple = tuple[-1:]
 print(tuple)
-#output->(129,)
+#output->(129 ,)
