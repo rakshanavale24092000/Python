@@ -10,7 +10,7 @@ def spy_game(num):
         if i==code[0]:
             code.pop(0)
 
-    return len(code) == 1
+    return len(code)==1
 
 
 nums = [1, 0, 0, 6, 7]
